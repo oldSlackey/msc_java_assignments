@@ -1,0 +1,30 @@
+LETTER ANALYSIS
+
+Letter  Freq  Freq%  AvgFreq%  Diff
+   A      0    NaN     8.2     NaN
+   B      0    NaN     1.5     NaN
+   C      0    NaN     2.8     NaN
+   D      0    NaN     4.3     NaN
+   E      0    NaN     12.7     NaN
+   F      0    NaN     2.2     NaN
+   G      0    NaN     2.0     NaN
+   H      0    NaN     6.1     NaN
+   I      0    NaN     7.0     NaN
+   J      0    NaN     0.2     NaN
+   K      0    NaN     0.8     NaN
+   L      0    NaN     4.0     NaN
+   M      0    NaN     2.4     NaN
+   N      0    NaN     6.7     NaN
+   O      0    NaN     7.5     NaN
+   P      0    NaN     1.9     NaN
+   Q      0    NaN     0.1     NaN
+   R      0    NaN     6.0     NaN
+   S      0    NaN     6.3     NaN
+   T      0    NaN     9.1     NaN
+   U      0    NaN     2.8     NaN
+   V      0    NaN     1.0     NaN
+   W      0    NaN     2.4     NaN
+   X      0    NaN     0.2     NaN
+   Y      0    NaN     2.0     NaN
+   Z      0    NaN     0.1     NaN
+The most frequent letter is A with a percent frequency of  NaN
